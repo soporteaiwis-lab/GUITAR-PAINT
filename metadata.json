@@ -1,0 +1,5 @@
+{
+  "name": "Luthier.AI - Digital Product Architecture",
+  "description": "A professional digital lutherie tool that analyzes guitar images and simulates technical modifications based on physical acoustics, material taxonomy, and mechanical geometry using Gemini 2.5 and 3 models.",
+  "requestFramePermissions": []
+}
