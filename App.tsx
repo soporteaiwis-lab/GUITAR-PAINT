@@ -503,6 +503,11 @@ export default function App() {
             )}
         </div>
       </div>
+
+      {/* Footer Credit */}
+      <footer className="mt-12 border-t border-gray-800 pt-6 text-center text-xs text-gray-600 font-mono tracking-widest">
+        <p>ARCHITECTED BY ARMIN SALAZAR SAN MARTIN // CEO @ AIWIS.CL</p>
+      </footer>
     </div>
   );
 }
